@@ -1,0 +1,64 @@
+.title {
+	text-align: center;
+	margin: auto;
+}
+
+.leftpad {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.headline {
+	display: block;
+	text-align: center;
+	background: #c0c0c0;
+	color: white;
+	padding-top: 10%;
+	position: relative;
+ 	top: 50%;
+ 	
+
+}
+.center-block {
+	max-height: 300px;
+}
+
+.btn {
+	margin-bottom: 7px;
+}
+
+.panel-heading {
+	font-weight: bold;
+}
+
+
+.detailInfoBox {
+	padding: 10%;
+}
+
+#getDetailButton {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
